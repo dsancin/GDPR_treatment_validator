@@ -1,0 +1,3 @@
+sistemare in generale...
+problemi noti:
+nel report di test non è stata fatta la classificazione dei tipi di dati
