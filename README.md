@@ -9,6 +9,8 @@ diagramma_casi_uso.png è il diagramma dei casi d'uso
 
 ID_Compliance_Report.pdf è un test fatto per verificare funzionamento (prompt: la mia azienda si occupa di dati medici, voglio creare database contenente nome, cognome e malattie dei pazienti)
 
+GDPR_treatment_validator.pdf è un breve report sul progetto
+
 /pages/1_new_treatment_App.py è la pagina per i nuovi trattamenti
 
 /pages/2_existing_treatment_App.py è la pagina per i trattamenti esistenti
