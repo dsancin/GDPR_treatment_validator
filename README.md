@@ -1,5 +1,5 @@
 # GDPR_treatment_validator
-progetto di fine corso per il percorso Academy Cyber + AI. L’obiettivo del progetto è creare un agente AI per aiutare le aziende nella compliance al GDPR.
+progetto di fine corso per il percorso Academy Cyber + AI, versione MVP. L’obiettivo del progetto è creare un agente AI per aiutare le aziende nella compliance al GDPR.
 
 home.py è la home page della app.
 
